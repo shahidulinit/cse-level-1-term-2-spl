@@ -1,0 +1,12 @@
+# Executable files
+*.exe
+*.out
+
+# Compiler and debugger output
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# VS Code workspace state
+.vscode/*.code-workspace
