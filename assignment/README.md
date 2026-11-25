@@ -107,8 +107,8 @@ Enter the length of the pattern: 4
 From this folder, use GCC. For example, in Windows PowerShell:
 
 ```powershell
-gcc .\rightAlignedHash.c -o .\rightAlignedHash.exe
-.\rightAlignedHash.exe
+gcc .\filename.c -o .\filename.exe
+.\filename.exe
 ```
 
 Replace the source and executable names to run another program. Enter a
